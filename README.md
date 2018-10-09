@@ -22,7 +22,7 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- |  | --- | --- | --- | --- |
-|week 1 | --- |Started Research|
+|week 1 | Started Research
 |week 2 |
 
 ## Bronnen
